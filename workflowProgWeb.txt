@@ -1,0 +1,15 @@
+1. Création de toto.github.io toto étant votre pseudo github
+2. github a créé pour vous un fichier index.html (dans le dépot toto.github.io)
+3. cloner le dépot sur votre machine : git clone ....
+4. localement (sur votre machine) il y a une copie de ce qui est sur github
+5. On travaille en local 
+	a. ouvrir le fichier index.html
+	b. le modifier
+	c. créer un autre fichier "exos1.html"
+	d. le modifier
+	e. vérifier avec mon navigateur que j'ai bien tr	availlé
+6. git add . (je dis au programme git que j'ai fait des modifications locales)
+7. git commit -m "message" (je dis au programme que je souhaite transférer les changements qui je viens de faire (c'est changment porte un nom "message") 
+8. git push (on demande au programme git de transférer les modifications)
+
+10. On attend un peu et on peut voir apparaitre les nouveautés sur toto.github.io
