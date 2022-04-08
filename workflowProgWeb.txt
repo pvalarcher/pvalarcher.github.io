@@ -1,10 +1,10 @@
 1. Création de toto.github.io toto étant votre pseudo github
-2. github a créé pour vous un fichier index.html (dans le dépot toto.github.io)
+2. github a créé (ou pas) pour vous un fichier index.html (dans le dépot toto.github.io)
 3. cloner le dépot sur votre machine : git clone ....
 
 4. localement (sur votre machine) il y a une copie de ce qui est sur github
 5. On travaille en local 
-	a. ouvrir le fichier index.html
+	a. ouvrir (ou créer) le fichier index.html
 	b. le modifier
 	c. créer un autre fichier "exos1.html"
 	d. le modifier
