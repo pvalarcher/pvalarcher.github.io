@@ -9,7 +9,7 @@
 	b. le modifier
 	c. créer un autre fichier "exos1.html"
 	d. le modifier
-	e. vérifier avec mon navigateur que j'ai bien tr	availlé
+	e. vérifier avec mon navigateur que j'ai bien travaillé
 
 
 6. git add . (je dis au programme git que j'ai fait des modifications locales)
