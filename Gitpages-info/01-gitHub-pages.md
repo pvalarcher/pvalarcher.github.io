@@ -19,6 +19,16 @@ GitHub Pages est un service de GitHub permettant de publier des sites web direct
 3. Nommez votre dépôt `<votre-nom-dutilisateur>.github.io`. Remplacez `<votre-nom-dutilisateur>` par votre nom d'utilisateur GitHub.
 4. (Optionnel) Ajoutez une description, choisissez si le dépôt sera public ou privé, et initialisez-le avec un fichier README.
 5. Cliquez sur "Create repository".
+6. Générer un ```token``` : une sorte de mot de pass temporaire
+	a. Aller dans "Settings"
+	b. Aller dans "Developper Settings" : tout en bas
+	c. Aller dans "Personnal access tokens" puis "Tokens (classic)"
+	d. Generate new token
+		1. Donner lui un nom
+		2. Choisissez une date d'expiration (fin du semestre ou fin d'année)
+		3. Cocher **repo**
+		4. Puis "Generate token"
+		5. **ATTENTION** : copier cette chaine de caractere dans un fichier que vous appelerez ```token_github-2024.txt``` sur votre ordinateur (vous pouvez vous envoyez ce fichier par mail pour sauvegarde). Ce sera le mot de passe que vous devrez utilisez quand on utilisera Git depuis le terminal.
 
 **Étape 2 : Ajouter du contenu à votre site**
 
